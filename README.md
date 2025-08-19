@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Scientific Calculator 🧮
 
 A Python-based scientific calculator built using Tkinter.  
