@@ -5,4 +5,5 @@ Supports basic arithmetic and scientific functions (sin, cos, tan, log, ln, sqrt
 
 ## Run the calculator
 ```bash
-python scientific_calculator.py
+python calculator.py
+
